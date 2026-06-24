@@ -55,7 +55,7 @@ Key analyses included:
 
 1. Clone the repo
 2. Install dependencies:
-   ```
-   pip install requests beautifulsoup4 pandas numpy matplotlib seaborn
-   ```
+    ```bash
+    pip install -r requirements.txt
+    ```
 3. Run `EDA.ipynb` to scrape the data and reproduce the analysis
